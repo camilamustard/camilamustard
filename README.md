@@ -13,6 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Pycharm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Rafa-Pycharm" height="50" width="40" <img src="https://img.utdstc.com/icon/cf3/245/cf3245ffa472759b2f79986bc43a4c0bd2589e475928661fa639336730d6df9b:200">
+  
 </div>
   
  <div> 
