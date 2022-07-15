@@ -1,10 +1,16 @@
 ### Camila Vilaça, criadora da Mustard, canal de educação em tecnologia. Desenvolvedora Python e cientista de dados, que já teve uma longa jornada em Front-end. 👋
-#Dizem que eu faço dashboards bonitos.
-#Sou apaixonada por inteligência artificial.
-#Tecnical course na University of Chicago in Artificial Intelligence and Data Science
-#Graduated in Computer Science in Universidade Anhembi Morumbi (Loading 70%...)
-#Graduated in Education in Universidade Federal de Minas Gerais
-#Post graduated in Big Data in Faculdade descomplica
+
+Dizem que eu faço dashboards bonitos.
+#
+Sou apaixonada por inteligência artificial.
+#
+Tecnical course na University of Chicago in Artificial Intelligence and Data Science
+#
+Graduated in Computer Science in Universidade Anhembi Morumbi (Loading 70%...)
+#
+Graduated in Education in Universidade Federal de Minas Gerais
+#
+Post graduated in Big Data in Faculdade descomplica
 
 <div align="center">
   <a href="https://github.com/camilamustard">
