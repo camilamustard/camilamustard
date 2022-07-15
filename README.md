@@ -8,9 +8,9 @@ Tecnical course na University of Chicago in Artificial Intelligence and Data Sci
 #
 Graduated in Computer Science in Universidade Anhembi Morumbi (Loading 70%...)
 #
-Graduated in Education in Universidade Federal de Minas Gerais
-#
 Post graduated in Big Data in Faculdade descomplica
+#
+Graduated in Education in Universidade Federal de Minas Gerais
 
 <div align="center">
   <a href="https://github.com/camilamustard">
